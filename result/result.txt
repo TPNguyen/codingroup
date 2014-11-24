@@ -1,0 +1,25 @@
+
+
+The list is in descending order of performance
+
+1) Pulkit Goyal(Only guy who got the first question right and I do really appreciate that)
+
+2) Karan Sapolia(Even tough your graph is not correct still I like the concept of visualizing things and BTW for the first question you are no diffent than Madan Pandey. nlog(n) made you stand out)
+
+3) Vijay Krishnavanshi(Your guess for time complexity was pretty good less than O(n), besides all the right answer)
+
+4) Paarth Gupta
+
+5) Akash Goel(Besides you logic that stumps can be related to 10 wickets and dog has 4 legs, you did good)
+
+6) Vishwaprakash Mishra
+
+7) Lavee Singh
+
+8) Ronij Pandey
+
+9) Rushal Verma
+
+10) Abhishek Bundela
+
+
